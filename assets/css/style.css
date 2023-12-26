@@ -120,7 +120,8 @@ body { background: var(--white); }
 body::-webkit-scrollbar { width: 15px; }
 
 body::-webkit-scrollbar-track {
-  background: var(--white);
+ /* background: var(--white);*/
+  background: white;
   border-left: 1px solid var(--cultured);
 }
 
